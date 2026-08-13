@@ -5,6 +5,7 @@ Origin.Search: https://www.google.com/search?q=convert+rust+to+magnetite
 https://share.google/aimode/uwbR60T7JY9JvDSFc
 
 Reference:
+- https://sherylcanter.com/wordpress/2010/02/black-rust-and-cast-iron-seasoning/
 - 
 
 ## query: I'm trying to protect low pressure steam pipes made from mild steel.
