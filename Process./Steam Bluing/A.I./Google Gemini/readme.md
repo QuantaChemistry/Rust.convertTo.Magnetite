@@ -6,4 +6,8 @@ quote:
 https://share.google/aimode/jIfvCv7SlMSA57uSk
 
 Reference:
+- https://www.lindbergmph.com/about-us/blogs/steam-treating-everyday-objects/
+- https://www.pfonline.com/articles/blackening-of-ferrous-metals
+- https://www.metal-powder.tech/gkn-powder-metallurgys-dr-markus-schneider-awarded-skaupy-prize/
+- https://www.steeljrv.com/steel-surface-treatment-application-of-new-environmental-protection-blackening-process.html
 - 
