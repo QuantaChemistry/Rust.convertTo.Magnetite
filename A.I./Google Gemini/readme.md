@@ -12,7 +12,8 @@ Reference:
 https://share.google/aimode/83PImxuEyh77lpLzK
 
 Reference:
-- 
+- https://incurelab.com/wp/sealing-steam-pipe-threads-for-permanent-high-temperature-service
+- https://shannonglobalenergy.com/heres-how-to-stop-corrosion-under-insulation/
 
 ## query: I'm treating the inside of the pipe.
 
