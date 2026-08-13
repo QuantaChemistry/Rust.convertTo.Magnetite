@@ -10,4 +10,9 @@ Reference:
 - https://www.pfonline.com/articles/blackening-of-ferrous-metals
 - https://www.metal-powder.tech/gkn-powder-metallurgys-dr-markus-schneider-awarded-skaupy-prize/
 - https://www.steeljrv.com/steel-surface-treatment-application-of-new-environmental-protection-blackening-process.html
-- 
+- https://atlaspressedmetals.com/blog/what-is-steam-treatment-powder-metallurgy
+- https://www.surftech.com.au/coating-types/ox/
+- https://www.reddit.com/r/metallurgy/comments/sz36k6/pros_and_cons_of_bluing_versus_blackening_black/
+- https://www.instagram.com/reel/DZU7U_JM26Y/
+- https://langhe-industry.com/blackening-vs-bluing-full-comparison/
+- https://powdermetallurgy.com/steam-treatment-in-powder-metallurgy/
