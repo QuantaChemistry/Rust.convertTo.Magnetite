@@ -6,7 +6,9 @@ https://share.google/aimode/uwbR60T7JY9JvDSFc
 
 Reference:
 - https://sherylcanter.com/wordpress/2010/02/black-rust-and-cast-iron-seasoning/
-- 
+- https://xionlab.com/science-of-rust-converters-and-primers/
+- https://chemistry.stackexchange.com/questions/37376/forming-magnetite-on-cast-iron-pan
+- https://xionlab.com/what-is-rust-converter/
 
 ## query: I'm trying to protect low pressure steam pipes made from mild steel.
 
