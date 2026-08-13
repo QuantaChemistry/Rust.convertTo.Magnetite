@@ -15,3 +15,5 @@ Reference:
 - 
 
 ## query: I'm treating the inside of the pipe.
+
+https://share.google/aimode/YplMYcIu7NV9zEysE
